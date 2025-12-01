@@ -4,7 +4,7 @@
 
 ## Overview
 
-HackBar is a browser extension for penetration testing that has been migrated to the Manifest V3 standard, fully compatible with Chrome and Edge browsers. This tool provides cybersecurity researchers and developers with a convenient way to test the security of web applications.
+HackBar is a browser extension for penetration testing, now migrated to the Manifest V3 standard, fully compatible with Chrome and Edge browsers. This tool provides security researchers and developers with a convenient way to test the security of web applications.
 
 ## Features
 
@@ -20,12 +20,12 @@ HackBar is a browser extension for penetration testing that has been migrated to
 - Basic information column construction
 - UTF-8/Latin-1 encoding conversion
 - UNION SELECT statement generation
-- Spaces to inline comments
+- Space to inline comment conversion
 
 ### XSS Attack Assistance
 - String.fromCharCode conversion
 - HTML character conversion
-- XSS Alert template
+- XSS Alert templates
 
 ### LFI (Local File Inclusion) Testing
 - Basic LFI test vectors
@@ -35,7 +35,7 @@ HackBar is a browser extension for penetration testing that has been migrated to
 - Filter bypass techniques
 - Wrapper exploitation (php://filter, zip://, data://, expect://, input://)
 
-### Other Functions
+### Other Features
 - JSON formatting
 - String case conversion
 
@@ -51,7 +51,7 @@ HackBar is a browser extension for penetration testing that has been migrated to
 ## Usage
 
 1. Open the HackBar panel in developer tools
-2. Enter the target URL in the URL field
+2. Enter the target address in the URL field
 3. Use various tools to modify the URL or POST data
 4. Click "Execute" to send the request
 
@@ -61,4 +61,4 @@ This tool is intended only for legitimate penetration testing and security resea
 
 ## License
 
-This project is a modification of the original HackBar extension to comply with the Manifest V3 specification.
+This project is modified from the original HackBar extension to comply with Manifest V3 specifications.
