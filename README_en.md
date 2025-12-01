@@ -61,4 +61,4 @@ This tool is intended only for legitimate penetration testing and security resea
 
 ## License
 
-This project is modified from the original HackBar extension to comply with Manifest V3 specifications.
+This project is modified from the original HackBar extension to comply with Manifest V3 specifications.the original HackBar extension code is written by@Chewbaka69.

@@ -61,4 +61,4 @@ HackBar 是一个用于渗透测试的浏览器扩展，现已迁移到 Manifest
 
 ## 许可证
 
-此项目基于原始 HackBar 扩展进行修改，以符合 Manifest V3 规范。
+此项目基于原始 HackBar 扩展进行修改，以符合 Manifest V3 规范。原始 HackBar 扩展源代码来源于@Chewbaka69。
